@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
+
+🚀 **Currently Exploring:**  
+I'm diving deep into **Data Science**, unlocking insights from data and refining analytical skills.  
+
+🔮 **Future Vision:**  
+The goal is to transition into **Generative AI**, exploring the frontier of artificial intelligence and creative models.  
+
+Let me know if you'd like any tweaks!  
+
 
 <!--
 **Miraj-jaman/Miraj-jaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
